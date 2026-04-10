@@ -1,3 +1,7 @@
+---
+layout: default
+title: Andrew Pham
+---
 # Andrew Pham
 
 ## Contents
