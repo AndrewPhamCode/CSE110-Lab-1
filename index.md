@@ -1,23 +1,50 @@
-# Andrew Pham's User Page
+# Andrew Pham
 
-## About Me
+## Contents
 
-Hi, I'm **Andrew Pham**. I'm a computer science student who enjoys building projects in software, learning algorithms, and improving as a developer.
+- [Andrew Pham](#andrew-pham)
+  - [Contents](#contents)
+  - [Intro](#intro)
+  - [Interests](#interests)
+    - [Penguins](#penguins)
+    - [Top 5 Favorite Foods](#top-5-favorite-foods)
+    - [Travel Bucket List](#travel-bucket-list)
+    - [A Quote That I Live By](#a-quote-that-i-live-by)
+    - [Favorite Commands](#favorite-commands)
 
-I’m especially interested in:
-- software engineering
-- machine learning
-- systems programming
-- building practical tools people can actually use
+---
 
-## As a Programmer
+## Intro
 
-I like writing code in **Python**, **C++**, and **JavaScript**.
+Hi, I'm Andrew Pham, a computer science student at UCSD.
 
-> I enjoy solving problems step by step and learning how things work under the hood.
+---
 
-Here is a short code sample:
+## Interests
 
-```python
-def greet(name):
-    return f"Hello, {name}!"
+### Penguins
+I like penguins 🐧
+
+### Top 5 Favorite Foods
+1. Pho
+2. Sushi
+3. Steak
+4. Banh Mi
+5. Pasta
+
+### Travel Bucket List
+- Japan
+- Korea
+- Vietnam
+- Italy
+
+### A Quote That I Live By
+> "Programs must be written for people to read."
+
+### Favorite Commands
+
+```bash
+git status
+git add .
+git commit -m "message"
+git push
