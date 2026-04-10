@@ -6,7 +6,6 @@
   - [Contents](#contents)
   - [Intro](#intro)
   - [Interests](#interests)
-    - [Penguins](#penguins)
     - [Top 5 Favorite Foods](#top-5-favorite-foods)
     - [Travel Bucket List](#travel-bucket-list)
     - [A Quote That I Live By](#a-quote-that-i-live-by)
@@ -22,8 +21,7 @@ Hi, I'm Andrew Pham, a computer science student at UCSD.
 
 ## Interests
 
-### Penguins
-I like penguins 🐧
+
 
 ### Top 5 Favorite Foods
 1. Pho
